@@ -1,0 +1,21 @@
+.hobbies{
+    font-style: italic;
+    color: aquamarine;
+}
+ul{
+    margin: 0%;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.main{
+    background-color:#537391;
+}
+.hobbies2{
+background-color:#e17107 ;
+}
+.contact{
+background-color: #9b07e1;
+}
